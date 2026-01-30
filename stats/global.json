@@ -98,7 +98,16 @@
       "totalReadingMs": 10104,
       "level": 1,
       "updatedAt": "2025-12-15T00:49:11.263Z"
+    },
+    {
+      "userId": "ctx_ml0hhuzs",
+      "name": "ctx",
+      "avatar": "",
+      "chaptersRead": 0,
+      "totalReadingMs": 0,
+      "level": 1,
+      "updatedAt": "2026-01-30T06:10:28.079Z"
     }
   ],
-  "lastUpdated": "2025-12-15T00:51:03.209Z"
+  "lastUpdated": "2026-01-30T06:10:29.427Z"
 }
